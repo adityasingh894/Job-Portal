@@ -9,7 +9,7 @@ Create a database called job_portal and import everything from database.sql file
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "jobportal";
+$dbname = "job_portal";
 ```
 
 Candidate Credentials
